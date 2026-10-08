@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="80dp"
+    android:viewportWidth="96"
+    android:viewportHeight="80">
+
+    <!-- Soft visual background -->
+    <path
+        android:fillColor="#F1EBFF"
+        android:pathData="M8,4
+            L88,4
+            C92,4 94,6 94,10
+            L94,70
+            C94,74 92,76 88,76
+            L8,76
+            C4,76 2,74 2,70
+            L2,10
+            C2,6 4,4 8,4
+            Z" />
+
+    <!-- Before photo frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,17
+            C10,14 12,12 15,12
+            L37,12
+            C40,12 42,14 42,17
+            L42,50
+            C42,53 40,55 37,55
+            L15,55
+            C12,55 10,53 10,50
+            Z" />
+
+    <!-- Photo border -->
+    <path
+        android:fillColor="#8B6DD8"
+        android:pathData="M13,18
+            L39,18
+            L39,49
+            L13,49
+            Z" />
+
+    <!-- Photo area -->
+    <path
+        android:fillColor="#E8E0FF"
+        android:pathData="M15,20
+            L37,20
+            L37,47
+            L15,47
+            Z" />
+
+    <!-- Mountain -->
+    <path
+        android:fillColor="#7252C7"
+        android:pathData="M16,45
+            L23,36
+            L28,41
+            L33,33
+            L37,39
+            L37,47
+            L16,47
+            Z" />
+
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFB84D"
+        android:pathData="M29,25
+            A4,4 0,1 0,37,25
+            A4,4 0,1 0,29,25" />
+
+    <!-- Arrow -->
+    <path
+        android:fillColor="#E754A6"
+        android:pathData="M43,31
+            L53,31
+            L53,26
+            L62,36
+            L53,46
+            L53,41
+            L43,41
+            Z" />
+
+    <!-- Transparent/checkerboard result -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,17
+            C62,14 64,12 67,12
+            L84,12
+            C87,12 89,14 89,17
+            L89,50
+            C89,53 87,55 84,55
+            L67,55
+            C64,55 62,53 62,50
+            Z" />
+
+    <!-- Checkerboard squares -->
+    <path
+        android:fillColor="#D9D9E2"
+        android:pathData="M64,18
+            L70,18
+            L70,24
+            L64,24
+            Z
+            M76,18
+            L82,18
+            L82,24
+            L76,24
+            Z
+            M70,24
+            L76,24
+            L76,30
+            L70,30
+            Z
+            M82,24
+            L88,24
+            L88,30
+            L82,30
+            Z
+            M64,30
+            L70,30
+            L70,36
+            L64,36
+            Z
+            M76,30
+            L82,30
+            L82,36
+            L76,36
+            Z
+            M70,36
+            L76,36
+            L76,42
+            L70,42
+            Z
+            M82,36
+            L88,36
+            L88,42
+            L82,42
+            Z
+            M64,42
+            L70,42
+            L70,48
+            L64,48
+            Z
+            M76,42
+            L82,42
+            L82,48
+            L76,48
+            Z" />
+
+    <!-- Removed subject -->
+    <path
+        android:fillColor="#6C4AB6"
+        android:pathData="M72,29
+            C72,25 74,23 77,23
+            C80,23 82,25 82,29
+            C82,33 80,35 77,35
+            C74,35 72,33 72,29
+            M68,48
+            C68,40 71,36 77,36
+            C83,36 86,40 86,48
+            Z" />
+
+    <!-- Sparkle -->
+    <path
+        android:fillColor="#F15BB5"
+        android:pathData="M82,13
+            L84,18
+            L89,20
+            L84,22
+            L82,27
+            L80,22
+            L75,20
+            L80,18
+            Z" />
+
+</vector>

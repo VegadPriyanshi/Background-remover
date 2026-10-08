@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="80dp"
+    android:viewportWidth="96"
+    android:viewportHeight="80">
+
+    <!-- Soft colorful background -->
+    <path
+        android:fillColor="#F5EEFF"
+        android:pathData="M8,4
+            L88,4
+            C92,4 94,6 94,10
+            L94,70
+            C94,74 92,76 88,76
+            L8,76
+            C4,76 2,74 2,70
+            L2,10
+            C2,6 4,4 8,4
+            Z" />
+
+    <!-- Back template -->
+    <path
+        android:fillColor="#DCCBFF"
+        android:pathData="M49,13
+            C49,10 51,8 54,8
+            L80,8
+            C83,8 85,10 85,13
+            L85,57
+            C85,60 83,62 80,62
+            L54,62
+            C51,62 49,60 49,57
+            Z" />
+
+    <!-- Back template image area -->
+    <path
+        android:fillColor="#9B7BE5"
+        android:pathData="M53,13
+            L81,13
+            L81,35
+            L53,35
+            Z" />
+
+    <!-- Back template text lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,40
+            L78,40
+            L78,43
+            L56,43
+            Z
+            M56,46
+            L73,46
+            L73,49
+            L56,49
+            Z" />
+
+    <!-- Middle template -->
+    <path
+        android:fillColor="#FFD8EC"
+        android:pathData="M32,16
+            C32,13 34,11 37,11
+            L65,11
+            C68,11 70,13 70,16
+            L70,62
+            C70,65 68,67 65,67
+            L37,67
+            C34,67 32,65 32,62
+            Z" />
+
+    <!-- Middle template image -->
+    <path
+        android:fillColor="#F15BB5"
+        android:pathData="M36,16
+            L66,16
+            L66,39
+            L36,39
+            Z" />
+
+    <!-- Simple image shapes -->
+    <path
+        android:fillColor="#FFE6F3"
+        android:pathData="M38,36
+            L46,27
+            L52,33
+            L57,26
+            L64,36
+            Z" />
+
+    <!-- Middle template text -->
+    <path
+        android:fillColor="#7A4AA8"
+        android:pathData="M39,44
+            L63,44
+            L63,47
+            L39,47
+            Z
+            M39,51
+            L58,51
+            L58,54
+            L39,54
+            Z" />
+
+    <!-- Front template -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,20
+            C10,17 12,15 15,15
+            L40,15
+            C43,15 45,17 45,20
+            L45,64
+            C45,67 43,69 40,69
+            L15,69
+            C12,69 10,67 10,64
+            Z" />
+
+    <!-- Front colorful header -->
+    <path
+        android:fillColor="#FFB45C"
+        android:pathData="M14,20
+            L41,20
+            L41,40
+            L14,40
+            Z" />
+
+    <!-- Front template circle -->
+    <path
+        android:fillColor="#FFF1D9"
+        android:pathData="M22,29
+            A6,6 0,1 0,34,29
+            A6,6 0,1 0,22,29" />
+
+    <!-- Front template text -->
+    <path
+        android:fillColor="#6C4AB6"
+        android:pathData="M17,46
+            L38,46
+            L38,49
+            L17,49
+            Z
+            M17,53
+            L34,53
+            L34,56
+            L17,56
+            Z" />
+
+    <!-- Small sparkle -->
+    <path
+        android:fillColor="#F15BB5"
+        android:pathData="M83,57
+            L85,62
+            L90,64
+            L85,66
+            L83,71
+            L81,66
+            L76,64
+            L81,62
+            Z" />
+
+</vector>

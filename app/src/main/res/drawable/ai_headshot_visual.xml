@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="80dp"
+    android:viewportWidth="96"
+    android:viewportHeight="80">
+
+    <!-- Soft colorful background -->
+    <path
+        android:fillColor="#FFF0F7"
+        android:pathData="M8,4
+            L88,4
+            C92,4 94,6 94,10
+            L94,70
+            C94,74 92,76 88,76
+            L8,76
+            C4,76 2,74 2,70
+            L2,10
+            C2,6 4,4 8,4
+            Z" />
+
+    <!-- Before portrait card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M9,16
+            C9,13 11,11 14,11
+            L35,11
+            C38,11 40,13 40,16
+            L40,51
+            C40,54 38,56 35,56
+            L14,56
+            C11,56 9,54 9,51
+            Z" />
+
+    <!-- Portrait background -->
+    <path
+        android:fillColor="#F3E8FF"
+        android:pathData="M12,19
+            L37,19
+            L37,48
+            L12,48
+            Z" />
+
+    <!-- Before person -->
+    <path
+        android:fillColor="#8C72C8"
+        android:pathData="M20,30
+            C20,25 23,22 26,22
+            C30,22 33,25 33,30
+            C33,34 30,37 26,37
+            C23,37 20,34 20,30
+            M17,47
+            C17,40 20,37 26,37
+            C32,37 35,40 35,47
+            Z" />
+
+    <!-- Arrow -->
+    <path
+        android:fillColor="#F05AA8"
+        android:pathData="M41,31
+            L51,31
+            L51,26
+            L60,36
+            L51,46
+            L51,41
+            L41,41
+            Z" />
+
+    <!-- AI result card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,16
+            C58,13 60,11 63,11
+            L84,11
+            C87,11 89,13 89,16
+            L89,51
+            C89,54 87,56 84,56
+            L63,56
+            C60,56 58,54 58,51
+            Z" />
+
+    <!-- Professional portrait background -->
+    <path
+        android:fillColor="#FFE2F1"
+        android:pathData="M61,19
+            L86,19
+            L86,48
+            L61,48
+            Z" />
+
+    <!-- Professional head -->
+    <path
+        android:fillColor="#6C4AB6"
+        android:pathData="M69,29
+            C69,24 72,21 76,21
+            C80,21 83,24 83,29
+            C83,34 80,37 76,37
+            C72,37 69,34 69,29
+            M66,48
+            C66,40 70,36 76,36
+            C82,36 86,40 86,48
+            Z" />
+
+    <!-- Sparkles -->
+    <path
+        android:fillColor="#FF9F43"
+        android:pathData="M78,7
+            L80,12
+            L85,14
+            L80,16
+            L78,21
+            L76,16
+            L71,14
+            L76,12
+            Z" />
+
+    <path
+        android:fillColor="#F15BB5"
+        android:pathData="M87,28
+            L88,31
+            L91,32
+            L88,33
+            L87,36
+            L86,33
+            L83,32
+            L86,31
+            Z" />
+
+</vector>

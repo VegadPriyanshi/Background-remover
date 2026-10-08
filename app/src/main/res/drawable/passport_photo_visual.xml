@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="80dp"
+    android:viewportWidth="96"
+    android:viewportHeight="80">
+
+    <!-- Soft blue background -->
+    <path
+        android:fillColor="#EAF6FF"
+        android:pathData="M8,4
+            L88,4
+            C92,4 94,6 94,10
+            L94,70
+            C94,74 92,76 88,76
+            L8,76
+            C4,76 2,74 2,70
+            L2,10
+            C2,6 4,4 8,4
+            Z" />
+
+    <!-- Passport photo frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,10
+            L55,10
+            C58,10 60,12 60,15
+            L60,60
+            C60,63 58,65 55,65
+            L18,65
+            C15,65 13,63 13,60
+            L13,15
+            C13,12 15,10 18,10
+            Z" />
+
+    <!-- Photo area -->
+    <path
+        android:fillColor="#D9F0FF"
+        android:pathData="M19,16
+            L54,16
+            L54,56
+            L19,56
+            Z" />
+
+    <!-- Head -->
+    <path
+        android:fillColor="#4B83C4"
+        android:pathData="M28,29
+            C28,23 32,19 37,19
+            C42,19 46,23 46,29
+            C46,35 42,39 37,39
+            C32,39 28,35 28,29
+            Z" />
+
+    <!-- Body -->
+    <path
+        android:fillColor="#4B83C4"
+        android:pathData="M23,54
+            C23,44 28,39 37,39
+            C46,39 51,44 51,54
+            L51,56
+            L23,56
+            Z" />
+
+    <!-- Passport/document badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,20
+            L84,20
+            C87,20 89,22 89,25
+            L89,52
+            C89,55 87,57 84,57
+            L64,57
+            C61,57 59,55 59,52
+            L59,25
+            C59,22 61,20 64,20
+            Z" />
+
+    <!-- Badge border -->
+    <path
+        android:fillColor="#27A9E0"
+        android:pathData="M64,23
+            L84,23
+            C85,23 86,24 86,25
+            L86,52
+            C86,53 85,54 84,54
+            L64,54
+            C63,54 62,53 62,52
+            L62,25
+            C62,24 63,23 64,23
+            Z" />
+
+    <!-- Small ID photo -->
+    <path
+        android:fillColor="#EAF6FF"
+        android:pathData="M66,27
+            L80,27
+            L80,41
+            L66,41
+            Z" />
+
+    <!-- Small person -->
+    <path
+        android:fillColor="#1677A8"
+        android:pathData="M70,32
+            C70,30 71,29 73,29
+            C75,29 76,30 76,32
+            C76,34 75,35 73,35
+            C71,35 70,34 70,32
+            M68,40
+            C68,37 70,35 73,35
+            C76,35 78,37 78,40
+            Z" />
+
+    <!-- Lines -->
+    <path
+        android:fillColor="#7AC7E8"
+        android:pathData="M66,45
+            L82,45
+            L82,47
+            L66,47
+            Z
+            M66,49
+            L77,49
+            L77,51
+            L66,51
+            Z" />
+
+    <!-- Check mark -->
+    <path
+        android:fillColor="#20B486"
+        android:pathData="M78,10
+            L82,14
+            L89,7
+            L92,10
+            L82,20
+            L75,13
+            Z" />
+
+</vector>

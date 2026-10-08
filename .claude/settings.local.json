@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/HP/Desktop/ss/**)",
+      "Bash(xxd \"C:\\\\Users\\\\HP\\\\Desktop\\\\ss\\\\Background78\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\HP\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-HP-Desktop-Background\\\\575132f3-3eb6-4d63-9faf-4f82aa7e998d\\\\scratchpad\\\\bgapp\")",
+      "Bash(unzip -o \"C:\\\\Users\\\\HP\\\\Desktop\\\\ss\\\\Background78\" -d .)",
+      "Bash(xargs grep -liE \"template\")",
+      "Bash(rm -f Background_fixed.zip)",
+      "Bash(zip -rq Background_fixed.zip Background -x \"Background/.kotlin/*\" -x \"Background/.gradle/*\" -x \"Background/app/build/*\" -x \"Background/build/*\")",
+      "Bash(curl -s https://instantx-instantid.hf.space/config -o 'C:\\\\Users\\\\HP\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-HP-Desktop-Background\\\\39986592-db79-46db-9de3-f73a6d60fef0\\\\scratchpad/config.json')",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

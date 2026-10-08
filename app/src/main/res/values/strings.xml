@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Background</string>
+    <string name="app_title">AI Photo Editor</string>
+    <string name="subtitle"> Create professional photos in seconds</string>
+    <string name="cardTitle">PHOTO STUDIO</string>
+    <string name="cardSubTitle">CREATE YOUR PHOTO</string>
+    <string name="cardDescription">Transform your ideas into beautiful photos</string>
+</resources>

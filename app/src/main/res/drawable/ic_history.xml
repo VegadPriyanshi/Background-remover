@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- History arrow -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M3,5
+            L3,11
+            L9,11
+            L7,9
+            C8.5,7.5 10.2,7 12,7
+            C15.3,7 18,9.7 18,13
+            C18,16.3 15.3,19 12,19
+            C9.5,19 7.3,17.5 6.4,15.3
+            L4.6,16.1
+            C5.8,19.1 8.7,21 12,21
+            C16.4,21 20,17.4 20,13
+            C20,8.6 16.4,5 12,5
+            C9.6,5 7.4,6.1 5.8,7.8
+            L3,5
+            Z" />
+
+    <!-- Clock hands -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M11,10
+            L11,14
+            L14,16
+            L15,14.4
+            L13,13.1
+            L13,10
+            Z" />
+
+</vector>
